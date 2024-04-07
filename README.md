@@ -9,7 +9,7 @@ Program ini adalah program sederhana untuk manajemen perpustakaan yang memungkin
 4. **Lihat Daftar Buku :** Pengguna dapat melihat daftar buku yang tersedia beserta judul dan penulisnya.
 
 ## Instruksi
-1. **Menambah Buku :** Panggil fungsi addBook() dengan menentukan judul dan penulis buku yang ingin ditambahkan.
-2. **Meminjam Buku :** Panggil fungsi checkOutBook() dengan menentukan judul buku yang ingin dipinjam.
-3. **Mengembalikan Buku :** Panggil fungsi checkInBook() dengan menentukan judul buku yang ingin dikembalikan.
-4. **Melihat Daftar Buku :** Panggil fungsi checkListBook() untuk melihat daftar buku yang tersedia.
+1. **Menambah Buku :** Panggil fungsi `addBook()` dengan menentukan judul dan penulis buku yang ingin ditambahkan.
+2. **Meminjam Buku :** Panggil fungsi `checkOutBook()` dengan menentukan judul buku yang ingin dipinjam.
+3. **Mengembalikan Buku :** Panggil fungsi `checkInBook()` dengan menentukan judul buku yang ingin dikembalikan.
+4. **Melihat Daftar Buku :** Panggil fungsi `checkListBook()` untuk melihat daftar buku yang tersedia.
